@@ -1,0 +1,36 @@
+{
+  "formdata": [
+    {
+      "id": 1,
+      "firstname": "suji",
+      "lastname": "suji",
+      "email": "prem",
+      "password": "prem@123PREM@123",
+      "checkbox": true
+    },
+    {
+      "firstname": "dcd",
+      "lastname": "cvbvcdxs",
+      "email": "fgvhjkl",
+      "password": "fgvhjk",
+      "checkbox": true,
+      "id": 2
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "premkumars",
+      "email": "09009999888",
+      "password": "prem@123PREM@123",
+      "checkbox": true,
+      "id": 3
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "premkumars",
+      "email": "09009999888",
+      "password": "prem@123PREM@123",
+      "checkbox": true,
+      "id": 4
+    }
+  ]
+}
